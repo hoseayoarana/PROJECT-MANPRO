@@ -2,7 +2,8 @@
 Merupakan tugas mata kuliah manajemen proyek.
 
 # Sekilas Project
-Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalanan dari titik A ke titik B.
+Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalanan dari titik A ke titik B. </br>
+![HomePage](https://ibb.co/W21bsPT)
 
 # Manual
 Build : </br>
