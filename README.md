@@ -3,7 +3,7 @@ Merupakan tugas mata kuliah manajemen proyek.
 
 # Sekilas Project
 Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalanan dari titik A ke titik B. </br>
-![HomePage](https://ibb.co/W21bsPT)
+![HomePage](https://github.com/hoseayoarana/PROJECT-MANPRO/blob/master/img/messageImage_1591835799013.jpg?raw=true)
 
 # Manual
 Build : </br>
