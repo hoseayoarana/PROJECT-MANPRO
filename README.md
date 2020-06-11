@@ -7,10 +7,10 @@ Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalana
 # Manual
 Build : </br>
 1. Install dependencies </br>
-&nbsp;&nbsp;&nbsp;$ npm run install </br> </br>
+&nbsp;&nbsp;$ npm run install </br> </br>
 2. Build for production and launch server </br>
-&nbsp;&nbsp;&nbsp;$ npm run build </br>
-&nbsp;&nbsp;&nbsp;$ npm run start </br> </br>
+&nbsp;&nbsp;$ npm run build </br>
+&nbsp;&nbsp;$ npm run start </br> </br>
 
 untuk penjelasan lebih mendetail cek [Nuxt.js](https://nuxtjs.org/) </br>
 # [VIDEO DEMO](https://youtu.be/R6bzEQbNLaw)
