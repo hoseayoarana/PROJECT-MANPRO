@@ -5,7 +5,7 @@ Merupakan tugas mata kuliah manajemen proyek.
 Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalanan dari titik A ke titik B.
 
 # Manual
-Build : 
+Build : </br>
 Install dependencies
 $ npm run install
 Build for production and launch server
