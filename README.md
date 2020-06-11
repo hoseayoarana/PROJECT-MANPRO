@@ -21,7 +21,7 @@ c. Hit "Enter" on your keyboard to reveal direction from A(Starting) to B(destin
 d. Choose your vehicle of choice to calculate how much carbon you produce in that spesific direction </br>
 
 4. Note :</br>
-This project support maps and direction from google API services</br>
+This project support maps and directions from google API services</br>
 Street view is available for future improvement</br>
  
 untuk penjelasan lebih mendetail cek [Nuxt.js](https://nuxtjs.org/) </br>
