@@ -1,7 +1,8 @@
 # PROJECT-MANPRO
 Merupakan tugas mata kuliah manajemen proyek.
-# Disclaimer 
-Proyek ini didukung framework [Nuxt](https://nuxtjs.org/) dan [Vue](https://vuejs.org/) dan [google API](https://console.developers.google.com/?pli=1)
+# Framework used 
+Framework : [Nuxt](https://nuxtjs.org/) dan [Vue](https://vuejs.org/)</br>
+API :[google API](https://console.developers.google.com/?pli=1)
 # Sekilas Project
 Aplikasi berbasis web yang memberikan rincian pengeluaran carbon untuk perjalanan dari titik A ke titik B. </br> </br>
 ![HomePage](https://github.com/hoseayoarana/PROJECT-MANPRO/blob/master/img/messageImage_1591835799013.jpg?raw=true)
@@ -24,5 +25,5 @@ d. Choose your vehicle of choice to calculate how many carbon produces in that s
 This project support maps and directions from google API services</br>
 Street view is available for future improvement</br>
  
-untuk penjelasan lebih mendetail cek [Nuxt.js](https://nuxtjs.org/) </br>
+untuk penjelasan lebih mendetail cek [Vue.js](https://vuejs.org/) </br>
 # [VIDEO DEMO](https://youtu.be/R6bzEQbNLaw)
