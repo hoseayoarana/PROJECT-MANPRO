@@ -18,7 +18,7 @@ Build : </br>
 a. Enter Your Location or Starting position in A </br>
 b. Enter your destination of choice in B </br>
 c. Hit "Enter" on your keyboard to reveal direction from A(Starting) to B(destination) </br>
-d. Choose your vehicle of choice to calculate how many carbon produces in that spesific direction </br>
+d. Choose your vehicle of choice to calculate how many carbon produces in that specific direction </br>
 
 4. Note :</br>
 This project support maps and directions from google API services</br>
