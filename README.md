@@ -16,7 +16,7 @@ Build : </br>
 
 3. How To : </br>
 a. Enter Your Location or Starting position in A </br>
-b. Enter your destination of choice in B </b>
+b. Enter your destination of choice in B </br>
 c. Hit "Enter" on your keyboard to reveal direction from A(Starting) to B(destination) </br>
 d. Choose your vehicle of choice to calculate how much carbon you produce in that spesific direction </br>
 
